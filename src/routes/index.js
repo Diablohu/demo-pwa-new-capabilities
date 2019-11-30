@@ -1,6 +1,16 @@
 import routeCheck from 'koot/React/route-check';
 import App from '@views/app';
 
+/*
+
+/                   home
+/share-target       Share Target
+/detector           Shape Detection
+/select-file        File System
+/select-contact     Contact Picker
+
+ */
+
 /**
  * @type {Object} 路由配置对象
  * 原则上支持任何与 `react-router` (v3) 兼容的对象
